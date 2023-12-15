@@ -1,0 +1,8 @@
+*.o
+cacti/cacti
+cacti/cacti65/cacti
+cacti/cacti65/obj_opt/
+*/temporary.cfg
+*/outTemporary.txt
+__pycache__/*
+*.raw
