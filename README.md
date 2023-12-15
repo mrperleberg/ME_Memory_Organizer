@@ -6,9 +6,11 @@ Each memory organization are simulated with cacti to evaluate area requirements 
 
 ## Files
 main.py
+
 Contains the main functions for generating the SRAM organizations
 
 functions.py
+
 Contains the functions to run the cacti software, as generating the .cfg file, run simulation and catch results.
 
 ## Running:
